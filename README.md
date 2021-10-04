@@ -14,16 +14,16 @@
 
 - 🌐 Check out: 
 
-<h2 align= "center">
+<p align= "center">
 <a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle">&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle">
-</h2>
+</p>
 
   ---
   <p>
     <a align= "center" href="https://github.com/kambojshalabh35">
-  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kambojshalabh35&theme=github">
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=kambojshalabh35&count_private=true&theme=github&show_icons=true" /></a>
+  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kambojshalabh35">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=kambojshalabh35&count_private=true&show_icons=true" /></a>
   </p>
 
   ![Shalabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kambojshalabh35&theme=react-dark)
