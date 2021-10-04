@@ -4,8 +4,8 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 - 👀 I’m interested in Learning New Things
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
-- 💞️ I’m looking to collaborate on Web Development
+- 💻 Currently a student of AIML at Chandigarh University
+- 🤝🏻 I’m looking to collaborate on Web Development
 - 📫 You can contact me via: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kambojshalabh35/)](https://www.linkedin.com/in/kambojshalabh35/) &nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shalabhkamboj5300@gmail.com)](mailto:shalabhkamboj5300@gmail.com) &nbsp;&nbsp; [![Twitter Badge](https://img.shields.io/badge/-Shalabh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kambojshalabh35)](https://twitter.com/kambojshalabh35) 
 <hr>
 
