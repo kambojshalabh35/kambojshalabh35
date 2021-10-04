@@ -28,11 +28,6 @@
   </p>
 
   ![Shalabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kambojshalabh35&theme=chartreuse-dark)
-    
- 
---- 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kambojshalabh35&theme=chartreuse-dark">
 
 
 <!---
