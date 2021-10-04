@@ -10,16 +10,16 @@
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shalabhkamboj5300@gmail.com)](mailto:shalabhkamboj5300@gmail.com)
 ,[![Twitter Badge](https://img.shields.io/badge/-Shalabh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kambojshalabh35)](https://twitter.com/kambojshalabh35) <img src="https://cdn.dribbble.com/users/2437398/screenshots/4874253/media/2f02a5172aa13b3884144e7b2f49f363.gif"  width="50"></h3>
 
- ---
+<hr>
 
 - 🌐 Check out: 
 
 <p align= "center">
-<a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle">&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle">
+<h2><a href="https://denoviz.web.app/">Denoviz</a></h2> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a href="https://easycircuitbuild.tech/">Easy Circuit Build</a></h2> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle">
 </p>
 
-  ---
+<hr>
   <p>
     <a align= "center" href="https://github.com/kambojshalabh35">
   <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kambojshalabh35">
