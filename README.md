@@ -22,11 +22,11 @@
   ---
   <p>
     <a align= "center" href="https://github.com/kambojshalabh35">
-  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kambojshalabh35&theme=chartreuse-dark">
+  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kambojshalabh35&theme=react-dark">
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=kambojshalabh35&count_private=true&theme=chartreuse-dark&show_icons=true" /></a>
   </p>
 
-  ![Shalabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kambojshalabh35&theme=chartreuse-dark)
+  ![Shalabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kambojshalabh35&theme=react-dark)
 
 
 <!---
