@@ -1,22 +1,25 @@
 <h1 align="Center">  Hi there, I'm Shalabh Kamboj<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h1>
 <h3>
+  
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 - 👀 I’m interested in Learning New Things
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 You can contact me via:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kambojshalabh35/)](https://www.linkedin.com/in/kambojshalabh35/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shalabhkamboj5300@gmail.com)](mailto:shalabhkamboj5300@gmail.com)
-,[![Twitter Badge](https://img.shields.io/badge/-Shalabh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kambojshalabh35)](https://twitter.com/kambojshalabh35) <img src="https://cdn.dribbble.com/users/2437398/screenshots/4874253/media/2f02a5172aa13b3884144e7b2f49f363.gif"  width="50"></h3>
+- 📫 You can contact me via:&nbsp;&nbsp;
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kambojshalabh35/)](https://www.linkedin.com/in/kambojshalabh35/) &nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shalabhkamboj5300@gmail.com)](mailto:shalabhkamboj5300@gmail.com) &nbsp;&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-Shalabh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kambojshalabh35)](https://twitter.com/kambojshalabh35) 
+
 
 <hr>
 
 - 🌐 Check out: 
 
 <p align= "center">
-<h2><a href="https://denoviz.web.app/">Denoviz</a></h2> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle">&nbsp;&nbsp;&nbsp;&nbsp;
-<h2><a href="https://easycircuitbuild.tech/">Easy Circuit Build</a></h2> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle">
+<a href="https://denoviz.web.app/">**Denoviz**</a> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle">&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://easycircuitbuild.tech/">**Easy Circuit Build**</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle">
 </p>
 
 <hr>
