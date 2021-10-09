@@ -1,33 +1,36 @@
-<h1 align="Center">  Hi there, I'm Shalabh Kamboj &nbsp; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" valign="middle"></h1>
+<h1 align="Center">  
+  Hi there, I'm Shalabh Kamboj &nbsp; 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" valign="middle">
+</h1>
+  
+<img align="right" alt="GIF" height="215px" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
+
 <h3>
-  
-<img align="right" alt="GIF" height="240px" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
-<p>
-  • 👀 I’m interested in Learning New Things<br>
-  • 💻 Currently a student of AIML at Chandigarh University<br>
-  • 🤝🏻 I’m looking to collaborate on Web Development<br>
+  • 👀 I’m interested in Learning New Things<br><br>
+  • 💻 Currently a student of AIML at Chandigarh University<br><br>
+  • 🤝🏻 I’m looking to collaborate on Web Development<br><br>
   • 📫 You can contact me via: &nbsp;
-<a href="https://www.linkedin.com/in/kambojshalabh35">
-  <img alt="GIF" height="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" valign="middle">
-</a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kambojshalabh35">
+    <img alt="GIF" height="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" valign="middle">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shalabhkamboj5300@gmail.com">
+    <img alt="GIF" height="25px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" valign="middle">
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/kambojshalabh35">
+    <img alt="GIF" height="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" valign="middle">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kambojshalabh35">
+    <img alt="GIF" height="25px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" valign="middle">
+  </a>&nbsp;&nbsp;
+</h3>
   
-<a href="mailto:shalabhkamboj5300@gmail.com">
-  <img alt="GIF" height="25px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" valign="middle">
-</a>&nbsp;&nbsp;
-  
-<a href="https://twitter.com/kambojshalabh35">
-  <img alt="GIF" height="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" valign="middle">
-</a>&nbsp;&nbsp;
-  </p>
 <hr>
-
-
   
-<p>
-  • 🌐 Check out:&nbsp;&nbsp;&nbsp;&nbsp;
+<h3>
+  • 🌐 My Projects:&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://denoviz.web.app/"> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://easycircuitbuild.tech/"><img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle"></a>
-</p>
+</h3>
 
 <hr>
   
