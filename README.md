@@ -20,8 +20,8 @@
   
 <p>
   <a align= "center" href="https://github.com/kambojshalabh35">
-    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=kambojshalabh35&count_private=true&show_icons=true&theme=dark" />
-    <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kambojshalabh35&theme=dark">
+    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=kambojshalabh35&count_private=true&show_icons=true&bg_color=0D1117&text_color=fff" />
+    <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kambojshalabh35&theme=tokyonight">
   </a>
 </p>
 
