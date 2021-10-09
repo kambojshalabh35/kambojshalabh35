@@ -13,7 +13,7 @@
 - 🌐 Check out: 
 <p align= "center">
   <a href="https://denoviz.web.app/"><b>Denoviz</b></a> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle">&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://easycircuitbuild.tech/"><b>Easy Circuit Build</b></a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle">
+  <a href="https://easycircuitbuild.tech/"><b>[Easy Circuit Build](https://via.placeholder.com/15/f03c15/000000?text=+)</b></a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle">
 </p>
 
 <hr>
