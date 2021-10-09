@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" valign="middle">
 </h1>
   
-<img align="right" alt="GIF" height="215px" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
+<img align="right" alt="GIF" height="200px" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
 
 <h3>
   • 👀 I’m interested in Learning New Things<br><br>
