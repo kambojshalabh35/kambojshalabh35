@@ -1,8 +1,9 @@
 <h1 align="Center">  Hi there, I'm Shalabh Kamboj &nbsp; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" valign="middle"></h1>
 <h3>
   
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<img align="right" alt="GIF" height="240px" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
 
+  
 - 👀 I’m interested in Learning New Things
 - 💻 Currently a student of AIML at Chandigarh University
 - 🤝🏻 I’m looking to collaborate on Web Development
@@ -10,10 +11,11 @@
 
 <hr>
 
-- 🌐 Check out: 
+- 🌐 Check out:
+  
 <p align= "center">
   <a href="https://denoviz.web.app/"><b>Denoviz</b></a> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle">&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://easycircuitbuild.tech/" style="color: #38D252;"><b>Easy Circuit Build</b></a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle">
+  <a href="https://easycircuitbuild.tech/"><b>Easy Circuit Build</b></a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle">
 </p>
 
 <hr>
