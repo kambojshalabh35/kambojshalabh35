@@ -7,7 +7,6 @@
   <img align="right" alt="GIF" height="210px" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
   • 👀 I’m interested in Learning New Things<br><br>
   • 💻 Currently a student of AIML at Chandigarh University<br><br>
-  • 🤝🏻 I’m looking to collaborate on Web Development<br><br>
   • 📫 You can contact me via: &nbsp;
   <a href="https://www.linkedin.com/in/kambojshalabh35">
     <img alt="GIF" height="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" valign="middle">
