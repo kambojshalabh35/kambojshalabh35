@@ -4,10 +4,13 @@
 </h1>
   
 <h3>
-  <img align="right" alt="GIF" height="210px" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
+  <img align="right" alt="GIF" height="210px" src="https://shalabhkamboj.vercel.app/assets/img/og.jpg">
   • 👀 I’m interested in Learning New Things<br><br>
   • 💻 Currently a student of AIML at Chandigarh University<br><br>
   • 📫 You can contact me via: &nbsp;
+  <a href="https://shalabhkamboj.vercel.app/">
+    <img alt="GIF" height="25px" src="https://shalabhkamboj.vercel.app/assets/img/apple-touch-icon.jpg" valign="middle">
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kambojshalabh35">
     <img alt="GIF" height="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" valign="middle">
   </a>&nbsp;&nbsp;
@@ -27,7 +30,7 @@
 <h3>
   • 🌐 My Projects:&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://denoviz.web.app/"> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://easycircuitbuild.tech/"><img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://easycircuitbuild.web.app/"><img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://starautoind.com/"><img src="https://starautoind.com/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jmtherapy.in/"><img src="https://jmtherapy.in/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mukeshcomputers.ml/"><img src="https://mukeshcomputers.ml/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
