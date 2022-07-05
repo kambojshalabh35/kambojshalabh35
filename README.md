@@ -30,7 +30,7 @@
 <h3>
   • 🌐 My Projects:&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://denoviz.web.app/"> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://easycircuitbuild.web.app/"><img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://easycircuitbuild.web.app/"><img src="https://easycircuitbuild.web.app/static/nav_icon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://starautoind.com/"><img src="https://starautoind.com/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jmtherapy.in/"><img src="https://jmtherapy.in/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mukeshcomputers.ml/"><img src="https://mukeshcomputers.ml/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
