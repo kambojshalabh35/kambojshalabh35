@@ -8,6 +8,7 @@
   • 👀 I’m interested in Learning New Things<br><br>
   • 💻 Currently a student of AIML at Chandigarh University<br><br>
   • 📫 You can contact me via: &nbsp;
+  
   <a href="https://shalabhkamboj.vercel.app/">
     <img alt="GIF" height="25px" src="https://shalabhkamboj.vercel.app/assets/img/apple-touch-icon.jpg" valign="middle">
   </a>&nbsp;&nbsp;
