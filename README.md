@@ -5,7 +5,7 @@
   
 <h3>
   <img align="right" alt="GIF" height="210px" src="https://shalabhkamboj.vercel.app/assets/img/og.jpg">
-  • 👀 I’m interested in Learning New Things &nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=kambojshalabh35&color=00f609) <br><br>
+  • 👀 I’m interested in Learning New Things<br><br>
   • 💻 Currently a student of AIML at Chandigarh University<br><br>
   • 📫 You can contact me via: &nbsp;
   
