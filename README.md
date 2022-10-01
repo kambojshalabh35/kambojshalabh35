@@ -34,7 +34,7 @@
   <a href="https://easycircuitbuild.web.app/"><img src="https://easycircuitbuild.web.app/static/nav_icon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://starautoind.com/"><img src="https://starautoind.com/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jmtherapy.in/"><img src="https://jmtherapy.in/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mukeshcomputers.ml/"><img src="https://mukeshcomputers.ml/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mukesh-computers.web.app/"><img src="https://mukesh-computers.web.app/assets/img/favicon.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </h3>
 
 <hr>
