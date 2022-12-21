@@ -51,7 +51,7 @@
   </a>
 </p>
 
-![Shalabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kambojshalabh35&bg_color=0D1117&color=38D252&point=FEFEFE&line=1F6FEA&hide_title=true)
+<!-- ![Shalabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kambojshalabh35&bg_color=0D1117&color=38D252&point=FEFEFE&line=1F6FEA&hide_title=true) -->
 
 
 <!---
